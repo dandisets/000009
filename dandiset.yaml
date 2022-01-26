@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000009
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -92,20 +93,26 @@ description: We recorded spikes from the ALM and thalamus during tactile discrim
   of ALM activity. Similarly, photoinhibition of the ALM diminished  thalamic activity.
   Our results show that the thalamus is a circuit hub in  motor preparation and suggest
   that persistent activity requires reciprocal  excitation across multiple brain areas.
+ethicsApproval: []
 id: DANDI:000009/draft
 identifier: DANDI:000009
+keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000009/versions/draft/assets/
 name: Maintenance of persistent activity in a frontal thalamocortical loop
+protocol: []
 relatedResource:
 - identifier: doi:10.1038/nature22324
+  name: Maintenance of persistent activity in a frontal thalamocortical loop
   relation: dcite:IsDescribedBy
   schemaKey: Resource
   url: https://doi.org/10.1038/nature22324
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000009/draft
 version: draft
+wasGeneratedBy: []
