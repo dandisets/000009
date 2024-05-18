@@ -45,7 +45,7 @@ assetsSummary:
   - CurrentClampStimulusSeries
   - OptogeneticSeries
 citation: Guo, Zengcai; Inagaki, Hidehiko; Daie, Kayvon; Druckmann, Shaul; Gerfen,
-  Charles R.; Svoboda, Karel (2022) Maintenance of persistent activity in a frontal
+  Charles R.; Svoboda, Karel (2024) Maintenance of persistent activity in a frontal
   thalamocortical loop (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000009/draft
 contributor:
 - identifier: 0000-0002-4140-7961
@@ -107,9 +107,11 @@ relatedResource:
 - identifier: doi:10.1038/nature22324
   name: Maintenance of persistent activity in a frontal thalamocortical loop
   relation: dcite:IsDescribedBy
+  repository: Nature
+  resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://doi.org/10.1038/nature22324
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
